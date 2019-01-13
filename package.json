@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^6.2.0",
+    "dotenv-expand": "^4.2.0",
     "mongoose": "^5.4.3"
   }
 }
